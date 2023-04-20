@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35916b08-b2ea-4c41-8a50-2cdae2ecfd29" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OKwmnpBy5HdBJrwfnnsafOT3YL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.AnunciosApplication">
+    <configuration name="AnuncioServiceImplTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anuncios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.meli.anuncios.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.meli.anuncios.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="br.com.meli.anuncios.service.impl.AnuncioServiceImplTest" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnuncioServiceImplTest.deleteErrorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anuncios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.meli.anuncios.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.meli.anuncios.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="br.com.meli.anuncios.service.impl.AnuncioServiceImplTest" />
+      <option name="METHOD_NAME" value="deleteErrorTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnuncioServiceImplTest.findAllErrorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anuncios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.meli.anuncios.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.meli.anuncios.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="br.com.meli.anuncios.service.impl.AnuncioServiceImplTest" />
+      <option name="METHOD_NAME" value="findAllErrorTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnuncioServiceImplTest.findAllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anuncios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.meli.anuncios.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.meli.anuncios.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="br.com.meli.anuncios.service.impl.AnuncioServiceImplTest" />
+      <option name="METHOD_NAME" value="findAllTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnuncioServiceImplTest.findByIdErrorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anuncios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.meli.anuncios.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.meli.anuncios.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="br.com.meli.anuncios.service.impl.AnuncioServiceImplTest" />
+      <option name="METHOD_NAME" value="findByIdErrorTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnunciosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="anuncios" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.meli.anuncios.AnunciosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AnuncioServiceImplTest.findAllErrorTest" />
+        <item itemvalue="JUnit.AnuncioServiceImplTest.deleteErrorTest" />
+        <item itemvalue="JUnit.AnuncioServiceImplTest.findAllTest" />
+        <item itemvalue="JUnit.AnuncioServiceImplTest.findByIdErrorTest" />
+        <item itemvalue="JUnit.AnuncioServiceImplTest.delete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35916b08-b2ea-4c41-8a50-2cdae2ecfd29" name="Default Changelist" comment="" />
+      <created>1681322747421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681322747421</updated>
+      <workItem from="1681322751532" duration="10429000" />
+      <workItem from="1681384394846" duration="4960000" />
+      <workItem from="1681397202551" duration="173000" />
+      <workItem from="1681406467184" duration="115000" />
+      <workItem from="1681407050918" duration="7021000" />
+      <workItem from="1681417749219" duration="1582000" />
+      <workItem from="1681473659605" duration="3412000" />
+      <workItem from="1681490722649" duration="12028000" />
+      <workItem from="1681730219254" duration="15217000" />
+      <workItem from="1681819945365" duration="23033000" />
+      <workItem from="1681902421488" duration="8356000" />
+      <workItem from="1681998091212" duration="438000" />
+      <workItem from="1682006647147" duration="1431000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
